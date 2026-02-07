@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://may-nature-glow-88c72b6c.zappy5.app/sitemap.xml

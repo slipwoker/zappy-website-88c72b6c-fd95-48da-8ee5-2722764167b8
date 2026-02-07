@@ -1,0 +1,84 @@
+# May Nature Glow — Generative Engine Optimization Map
+
+> A קוסמטיקה וטיפוח business.
+
+---
+
+## Pages
+
+### Home
+https://may-nature-glow-88c72b6c.zappy5.app
+
+### Products
+https://may-nature-glow-88c72b6c.zappy5.app/products
+המוצרים שלנו - May Nature Glow
+
+### Ingredients & Routine
+https://may-nature-glow-88c72b6c.zappy5.app/ingredients
+
+### Contact
+https://may-nature-glow-88c72b6c.zappy5.app/contact
+
+### Cart
+https://may-nature-glow-88c72b6c.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://may-nature-glow-88c72b6c.zappy5.app/checkout
+תשלום
+
+### Login
+https://may-nature-glow-88c72b6c.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://may-nature-glow-88c72b6c.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://may-nature-glow-88c72b6c.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://may-nature-glow-88c72b6c.zappy5.app/product/:slug
+פרטי המוצר - May Nature Glow
+
+### Category
+https://may-nature-glow-88c72b6c.zappy5.app/category/:slug
+מוצרים - May Nature Glow
+
+## Legal & Policy
+
+### Privacy Policy
+https://may-nature-glow-88c72b6c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://may-nature-glow-88c72b6c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://may-nature-glow-88c72b6c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About May Nature Glow
+May Nature Glow is a business in the קוסמטיקה וטיפוח industry.
+
+## Target Audience
+- חובבי מוצרים אקולוגיים
+- מקצוענים צעירים
+- אמהות טריות
+
+## Industry
+קוסמטיקה וטיפוח
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://may-nature-glow-88c72b6c.zappy5.app/sitemap.xml
+- **Robots.txt**: https://may-nature-glow-88c72b6c.zappy5.app/robots.txt
